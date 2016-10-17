@@ -1,0 +1,26 @@
+2016-10-17 09:00 Hello Work Journal.
+
+This is my work journal. Where I plan to write about my advances and progess in
+design and development.
+
+I shall document my journey in programming, devops, and more.
+
+2016-10-17 09:00 Flask or Django for my personal site.
+
+I'm in the process of rebuilding my site again for maybe the 20th in the last
+10 years. I'm trying to decide between Django and Flask, both Python based.
+
+I remember back in the year 2005 or so, I wanted to create a custom website for
+my artwork. I did a lot of charcoal drawings and acrylic paintings. I would
+look for hosted and self-hosted solutions.
+
+I remember using Microsoft FrontPage express to create HTML pages with effects
+and it wrote the CSS for me. I used to upload the files to GeoCities to host my
+website online.
+
+Later I wanted a more mature, well-featured solution. So I would look for
+hosted solutions on line. I remember signing up for websites with portfolio and
+blog like features, themes you can click to activate. It was cool stuff. But I
+wanted ultimate control. I think that is how I got into Web Development. But it
+was a long process because I didn't have any real guidance in that industry,
+plus I think I was distracted as a youngen.
