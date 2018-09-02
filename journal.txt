@@ -243,3 +243,19 @@ It's those little things...
 Or she would always have it ready for me when I got home from grade school.
 
 She was the best @abu for sure.
+
+2016-11-17 13:50 life changes so quickly...one day you are fine, another day you are not.
+
+2018-09-01 22:00 Getting back into journaling with jrnl and Vim.
+
+I'm setting up this jrnl.sh, a command line journal. It's pretty awesome. I'm still
+getting used the configuration and commands. But I think it is worth learning b/c I
+get to type out my journals in plain raw text using my favorite editor, Vim. I think
+typing in Vim, whether journaling or coding, is so much fun b/c to me it is the most
+minimalistic, rawest form of typing/writing on a computer. Other apps with there GUI
+and design is nice, but it can sometimes be a distraction with it's fancy features,
+or the design can evoke some unwanted thoughts or emotions.
+
+So jrnl has a use of tags. The very first time I used this journal, it was actually
+kind of strange that what I journaled about was my @abu. I miss her.
+
